@@ -1,0 +1,21 @@
+.user{
+    width: 30%;
+    background-color: red;
+  }
+  .user:hover{
+    transform: scale(1.05);
+    transition:transform 0.5s;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+  }
+  .userimg{
+    height: 250px;
+    width: 50px;
+    
+ 
+  }
+
+  .btn{
+    width: 120px;
+    cursor: pointer;
+    border-radius: 10px;
+  }

@@ -1,0 +1,9 @@
+.groupdata{
+  display: flex;
+  
+  flex-wrap: wrap;
+  
+  
+  gap: 3.4rem;
+  padding: 2rem 0;
+}
